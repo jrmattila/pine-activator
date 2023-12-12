@@ -1,4 +1,8 @@
-## Getting Started
+## Usage
+
+The browser app can be accessed here: https://jrmattila.github.io/pine-activator/
+
+## Getting Started with development
 
 First, run the development server:
 
