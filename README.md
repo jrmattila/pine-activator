@@ -1,6 +1,6 @@
 Set up WIFI on your Bambu Lab P1S without the official app. 
 
-Feedback and PRs are welcome! I have so far tested the functionality only with my own printer. The compatibility with other models is unknown. The app seems to check for availability of Bluetooth characteristics that are not found on P1S. Hence, it could be that the other models use those different characteristics that this code doesn't support. Reach me if you have other model and want to get it working too.
+Feedback and PRs are welcome! I have so far tested the functionality only with my own printer. The compatibility with other models is unknown. The official phone app seems to check for availability of Bluetooth characteristics that are not found on P1S. Hence, it could be that the other models use those different characteristics that this code doesn't support. Reach me, if you have other model and want to get it supported too.
 
 ## Usage
 
